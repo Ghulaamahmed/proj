@@ -1,0 +1,8 @@
+.search:hover > .sr{
+  display:none;
+  width:200px;
+  padding: 0 6px;
+}
+.search:hover > .sa{
+  background: white;
+}
